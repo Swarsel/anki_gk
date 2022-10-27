@@ -1,0 +1,2737 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "a0cf26c1-55e0-11ed-b206-00acb1c8acfb",
+    "deck_config_uuid": "a0cf26c2-55e0-11ed-9390-00acb1c8acfb",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "a0cf26c2-55e0-11ed-9390-00acb1c8acfb",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 600,
+            "name": "Unlimited",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 5,
+    "extendRev": 0,
+    "media_files": [
+        "079b67c8756b5b02eb681594aa40114c.jpg",
+        "10168185_1_x.jpg",
+        "1024px-Pyrenees_0.43034E_42.71227N.jpg",
+        "1200px-1908-kl-t-zamenhof.jpg",
+        "1200px-Alianzen_in_Europa_1914.svg.png",
+        "1200px-J_S_Copley_-_Paul_Revere_(cropped).jpg",
+        "1200px-Nine_Men's_Morris_board.svg.png",
+        "1200px-PolarsternFinden.svg.png",
+        "1200px-Socrates_Louvre.jpg",
+        "1200px-US-Timezones-post-2007.png",
+        "1200px-Verrucaria01.jpg",
+        "126-laengengrade.png",
+        "126774_allo_mikorcsodak_mikola.jpg",
+        "1661876572937220764469081636969.jpg",
+        "16618949991499216345022340008605.jpg",
+        "16618966397434041757195157661436.png",
+        "16618975248183472900560326106296.jpg",
+        "16618979636113228672304973611600.jpg",
+        "16618981012956401077254466731049.jpg",
+        "16618983517685655940891668355366.jpg",
+        "16618987037906428354858218460167.jpg",
+        "1661898944478571877237307840838.jpg",
+        "16618989751361756837533180344378.jpg",
+        "16618990010844656039409700937538.png",
+        "16618996197511528043982456357929.png",
+        "16618996618076194130922298925776.png",
+        "16618998658245292250127636272239.png",
+        "16618999659554485535426946029486.jpg",
+        "16619004521647338847362518407361.jpg",
+        "16619005401869177096755974609260.jpg",
+        "16619010074541313724192705300842.jpg",
+        "16619010267304966462618213425262.jpg",
+        "16619011126528271727620273247575.png",
+        "16619011435521824675598940025099.jpg",
+        "16619012378117756897461815336945.jpg",
+        "16619012710938854656834891261184.png",
+        "1661901370437377893003176344839.jpg",
+        "16619014427194360100912336276215.jpg",
+        "16619014983403172642559589708510.jpg",
+        "1661902942777283703682190062405.png",
+        "16619032071757310075697256338113.jpg",
+        "16619033409561311363383495620992.jpg",
+        "16619034879406618925916678355323.jpg",
+        "16619038269516943920713521989664.jpg",
+        "16624810351534843683825925355429.jpg",
+        "16624821966199135761697957480274.jpg",
+        "1662482298439817536523629498344.jpg",
+        "16629025315568000084622965355645.jpg",
+        "16630836566663941431353759086644.jpg",
+        "2017086_univ_cnt_3_md.jpg",
+        "2017086_univ_cnt_4_md.jpg",
+        "2017086_univ_cnt_5_md.jpg",
+        "2017086_univ_cnt_6_md.jpg",
+        "220px-Alfred_Wegener_ca.1924-30.jpg",
+        "220px-Baglione.jpg",
+        "220px-De_Schoolmeester_scheurbank_met_sorteerkist.jpg",
+        "220px-Fjord.gif",
+        "220px-Sydney_AST2001oct12_lrg.jpg",
+        "290px-Gloriette_Schönbrunn_Wien.jpg",
+        "300px-Dual_Alliance_in_1914.png",
+        "300px-Nepal_rel_location_map.svg.png",
+        "330px-Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg",
+        "350px-Wythoff's_Nim.svg.png",
+        "370px-Mid-ocean_ridge_system.gif",
+        "465px-Alan_Turing_az_1930-as_években.jpg",
+        "6+Allometriegesetz+der+terrestrischen+Wirbeltiere.jpg",
+        "640px-Kunsthistorisches_Museum_Wien_Pieter_Bruegel_d.Ä._der_Turmbau_zu_Babel.jpg",
+        "659d07ef143e2c4f64da15d0b1bd635b.jpg",
+        "Accumulation_ablation_groundingline.png",
+        "Akkretionsunifikation.jpg",
+        "Boiling_Point_Apparatus_or_Hypsometer.jpg",
+        "Exteriortheatreofpompey.jpg",
+        "Frans_Hals_-_Portret_van_René_Descartes.jpg",
+        "Johann_Bernhard_Fischer_von_Erlach.jpg",
+        "Picasso_Guernica-3-1040x467-1-1024x460.jpg",
+        "Prise_de_la_Bastille_01.jpg",
+        "Schikaneder,_Emanuel_eigentlich_Johann_Joseph_Schickeneder1.jpg",
+        "Wiedervereinigung.PNG",
+        "aO715GN_460s.jpg",
+        "cat-66-1.jpg",
+        "d-2plus4-vertrag.gif",
+        "flat-design.png",
+        "fuchsundhenne.jpg",
+        "gl_143.jpg",
+        "grafik-armillarsphäre2.jpg",
+        "histogram-example-1.png",
+        "img1158931296379607017.jpg",
+        "img1516196584703657239.jpg",
+        "img155330403253291975.JPG",
+        "img15535881604190444.jpg",
+        "img1796033155502062198.jpg",
+        "img2924138231647596228.jpg",
+        "img3276669069309380217.png",
+        "img3303530995723891633.jpg",
+        "img3778401681607115349.png",
+        "img3908277870357729306.png",
+        "img4001485294273851547.jpg",
+        "img470433620161180582.png",
+        "img4921345502877614420.png",
+        "img5438407860883638379.jpg",
+        "img5758745326884307579.jpg",
+        "img6355912910411929241.jpeg",
+        "img6608030090358358114.png",
+        "img6855586846358490728.jpeg",
+        "img6914794287103474153.jpg",
+        "img7079444816970033928.jpg",
+        "img7806298369351413596.png",
+        "maerz-o.png",
+        "paste-0fec8976a3e9634d5c8c1b22bfb8d8a24dd13e45.jpg",
+        "paste-17bb729548d1280a3c8c84ef266ce33757e002cf.jpg",
+        "paste-41ffbb44d7966c70c73c6ddb5b4d3954728ed8ed.jpg",
+        "paste-4470c66c26f2a5531b2b990571d218574f3424f0.png",
+        "paste-51b306919880da7c8371143c4a26e1f1c36b6578.jpg",
+        "paste-772cf82432ba35d3ba7eb186a76a080a26177439.png",
+        "paste-849c4bc825c2c8d1cedef076e9dd7dd779b674bd.jpg",
+        "paste-86fcda73c67bc8453fd24ce09cada39efa803665.jpg",
+        "paste-9b8828440573d49e9b7e4eb0f1ed6d03060fa338.jpg",
+        "paste-c97f413e264f0551be04b90e6fd0d69716c3be3c.jpg",
+        "paste-ddd92d55d649b5dab4c9f02a10c14b89875167bc.jpg",
+        "paste-ec5aa8517e8ee8f061cce2d31dce4da58893d6c8.jpg",
+        "s.jpg",
+        "side_001_bike-detail-1x.png",
+        "victoria-falls-width.jpg",
+        "westindien.gif"
+    ],
+    "mid": 1586863422213,
+    "name": "🦁 All::01 ❤️ Various::00 ✨ Allgemein",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a0d149c1-55e0-11ed-8392-00acb1c8acfb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: blue;}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Word",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Meaning",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Reverse(fill if yes)",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Advanced English Words",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Meaning}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Word}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Word}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{#Reverse(fill if yes)}}\n{{Meaning}}\n{{/Reverse(fill if yes)}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ende der englischen Monarchie <b>wann</b>?",
+                "14.10.1066 <br>Wo: Battle Abbey on Sunlack hill bei Hastings<br>Harold was killed, replaced by William I (der eroberer)"
+            ],
+            "guid": "gROWJ",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Magna Carta wann?",
+                "1215<br><img src=\"330px-Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg\">"
+            ],
+            "guid": "0SfNR",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das Gesetz von Moore?",
+                "Alle 18 Monate verdoppelt sich Anzahl Transistoren pro Chip und Fläche halbiert sich.<br>(1965)"
+            ],
+            "guid": "`m@bQ",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Österreichische Verfassung wann?",
+                "1920"
+            ],
+            "guid": "DYIoS",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Österreich wieviel Prozent Wald?",
+                "52%"
+            ],
+            "guid": "$i!)S",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Gloriette?",
+                "Erhöhtes Gebäude in einem Park.<br><img src=\"290px-Gloriette_Schönbrunn_Wien.jpg\">"
+            ],
+            "guid": "wm[NL",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Ria? (Geologie)",
+                "Durch Anstieg des Meeresspiegels geflutete Flusstäler, die ohne Gletschereinwirkung entstanden sind<br><img src=\"220px-Sydney_AST2001oct12_lrg.jpg\">"
+            ],
+            "guid": "J,:^G",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Fjord? (Geologie)",
+                "Durch einen seewärts wandernden Talgletscher entstandener Meeresarm<br><img src=\"220px-Fjord.gif\">"
+            ],
+            "guid": "@<i%1",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Förde? (Geologie)",
+                "Durch einen landwärts wandernden Talgletscher entstandener Meeresarm - oft z.B. in Jutland<br><img src=\"paste-17bb729548d1280a3c8c84ef266ce33757e002cf.jpg\">"
+            ],
+            "guid": "^v19Q",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Gangnam (Gangnam-gu)",
+                "Der Name des Zentrums von Seoul"
+            ],
+            "guid": "BWQ%P",
+            "note_model_uuid": "a0d149c1-55e0-11ed-8392-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie findet man den Planeten Arktur? Welchen Stern findet man wenn man von dort weitergeht?",
+                "Deichsel des großen Wagens verlängern<br>Spica<br><img src=\"maerz-o.png\">"
+            ],
+            "guid": "d$,pA",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie findet man den Polarstern?",
+                "Die äußeren Sterne des Wagens des großen Wagens 5 mal gerade verlängern.<br><img src=\"1200px-PolarsternFinden.svg.png\">"
+            ],
+            "guid": "6^(^2",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet Mazeration?",
+                "Aufweichung eines Gewebes"
+            ],
+            "guid": "RvcaL",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Klimakterium? (Botanik)",
+                "Der Prozess, durch den Früchte noch nachreifen, nachdem sie gepflückt sind."
+            ],
+            "guid": "_`ULQ",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Warum darf man Bananen und Früchte mit Klimakterium nicht beeinander lagern?",
+                "Weil Bananen Ethylen abgeben und dadurch die anderen Früchte schneller reifen."
+            ],
+            "guid": "!46,T",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo ist das Y-40?",
+                "Padua<br><img src=\"paste-ddd92d55d649b5dab4c9f02a10c14b89875167bc.jpg\">"
+            ],
+            "guid": "7.m*B",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Endolithe?",
+                "Mikroorganismen die in Steinen leben<br><img src=\"1200px-Verrucaria01.jpg\">"
+            ],
+            "guid": "S*%9",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Dichotome Blätter?",
+                "Nicht verzweigte Blattnerven (wie Gingko)<br><img src=\"s.jpg\">"
+            ],
+            "guid": "a`pb8",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hexakosioihexekontahexaphobia ist was?",
+                "Angst vor der Zahl 666"
+            ],
+            "guid": "0=+$S",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie gewinnt man Wythoffs Spiel?",
+                "Indem man immer auf ein Feld zieht, welches ein Paar im Wythoff-Array darstellt.<br>zb. 1-2 , 3-5, 8-13, 4-7, 11-18 etc<br><br><img src=\"350px-Wythoff's_Nim.svg.png\">"
+            ],
+            "guid": "F~W#pxS[UZ",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das Besondere an der Architektur von Lanzarote?",
+                "Alle Häuser folgen den Vorgaben von Cezar Manrique: Erlaubte Farben Weiß, Grün, Blau - kein Haus höher als die Palmen.<br><img src=\"paste-0fec8976a3e9634d5c8c1b22bfb8d8a24dd13e45.jpg\">"
+            ],
+            "guid": "Ulh.6",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Biedermeier Dauer",
+                "1815- 1848"
+            ],
+            "guid": "~6.XA",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer war der Lehrer von Aristoteles?",
+                "Platon"
+            ],
+            "guid": "B&518",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer war der Lehrer von Platon?",
+                "Sokrates"
+            ],
+            "guid": "Z4{22",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie keimblättrig sind klassische Bäume?",
+                "Zweikeimblättrig<br>(Dikotyl)"
+            ],
+            "guid": "f8@{P",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie keimblättrig sind Palmen?",
+                "Einkeimblättrig<br>(Monokotyl)"
+            ],
+            "guid": "5r+AO",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Warum sind Palmen so flimsy?",
+                "Weil sie einkeimblättrig sind und kein sekundäres Dickenwachstum haben. Die zweikeimblättrigen Pflanzen werden immer mächtiger"
+            ],
+            "guid": "$$[^9",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Österreichischer Polarforscher, der das Franz-Josefs-Land gefunden hat?",
+                "Alfred Wegener<br><img src=\"220px-Alfred_Wegener_ca.1924-30.jpg\">"
+            ],
+            "guid": "<5h|5",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Erbauer Prunksaal?",
+                "Johann Bernhard Fischer von Erlach<br><img src=\"Johann_Bernhard_Fischer_von_Erlach.jpg\">"
+            ],
+            "guid": "Qf6_K",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ab wann Baumwollpapier in Büchern?",
+                "1501"
+            ],
+            "guid": "NaY)I",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist unterhalb des Burggartens?",
+                "Bücherspeicher (ca. 16.000m²)"
+            ],
+            "guid": "NY<7O",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Leporello?",
+                "Faltbuch<br><img src=\"paste-51b306919880da7c8371143c4a26e1f1c36b6578.jpg\">"
+            ],
+            "guid": "^5z{7",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hühner haben {{c1::keine::welche?}} Backen.",
+                ""
+            ],
+            "guid": "BpF_A",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hühner haben {{c1::2::wie viele?}} Mägen.",
+                "(Drüsenmagen und Muskelmagen)"
+            ],
+            "guid": "]a$#8",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hühner haben {{c1::2::wie viele?}} Blinddärme.",
+                ""
+            ],
+            "guid": "BDu!C",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Auf Iraks Flagge steht auf {{c1::Kufic::welche Sprache?}} {{c2::\"Allahu Akbar\" (\"god is great\")::was?}}",
+                "<img src=\"img6608030090358358114.png\">"
+            ],
+            "guid": "0vE21",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Abolitionismus?",
+                "Eine Bewegung zur Abschaffung der Sklaverei."
+            ],
+            "guid": "~yKI6",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist&nbsp;<em>Skeuomorphismus?</em>",
+                "<span style=\"color: rgb(77, 81, 86);\">E</span><span style=\"color: rgb(77, 81, 86);\">ine Gestaltungstechnik in der reale Gegenstände und Materialien digital nachgebildet werden.<br></span><img src=\"flat-design.png\"><span style=\"color: rgb(77, 81, 86);\"><br></span>"
+            ],
+            "guid": "k)YF0ej?y?",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Pergola?",
+                "Ein Pfeiler- oder Säulengang<br><img src=\"img7079444816970033928.jpg\">"
+            ],
+            "guid": "]qNs9",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"img5438407860883638379.jpg\">",
+                "Eine Pergola."
+            ],
+            "guid": "A7*TT",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer waren die Achsenmächte?",
+                "Deutschland, Italien, Japan"
+            ],
+            "guid": "ZORy1",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer waren die Hauptalliierten im zweiten Weltkrieg?",
+                "UK, Sowjetunion, USA, Frankreich"
+            ],
+            "guid": ":2)AC",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer waren im ersten Weltkrieg die Alliierten?",
+                "Die Triple Entente (UK, Frankreich, Russisches Reich)<br><img src=\"img1516196584703657239.jpg\">"
+            ],
+            "guid": ";!eC6",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer war die Triple Entente?",
+                "UK, Frankreich, Russisches Reich<br><img src=\"img1516196584703657239.jpg\">"
+            ],
+            "guid": "7n[tU",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war die triple Entente?",
+                "Ein informelles Bündnis von UK, Frankreich, und russichem Reich (1 Weltkrieg)<br><img src=\"img1516196584703657239.jpg\">"
+            ],
+            "guid": "UBhBS",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer waren die Mittelmächte im ersten Weltkrieg?",
+                "Deutsches Reich, Österreich-Ungarn<br>später Osmanisches Reich, Bulgarien<br><img src=\"img2924138231647596228.jpg\">"
+            ],
+            "guid": "SCBH4",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zu wem gehört diese historische Flagge?<br><img src=\"img470433620161180582.png\">",
+                "Deutsches Kaiserreich"
+            ],
+            "guid": "6A/UD",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zu wem gehört diese historische Flagge?<br><img src=\"img4921345502877614420.png\">",
+                "Haus Habsburg "
+            ],
+            "guid": "lB>fC",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zu wem gehört diese historische Flagge?<br><img src=\"img3908277870357729306.png\">",
+                "Königreich Ungarn"
+            ],
+            "guid": "1;WsL",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nannte man die Mittelmächte im ersten Weltkrieg noch?",
+                "Zentralmächte, Vierbund"
+            ],
+            "guid": "QuGkT",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war der Dreibund?",
+                "Ein geheimes Bündnis zwischen Österreich-Ungarn, dem deutschen Kaiserreich und dem Königreich Italien.<br><img src=\"1200px-Alianzen_in_Europa_1914.svg.png\">"
+            ],
+            "guid": "^R}cP",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie entstand der Dreibund?",
+                "Durch Beitritt des Königreichs Italien zum Zweibund<br><br>(Italien erhoffte sich Rückhalt bei seinen kolonialen Bestrebungen in Afrika)<br><img src=\"1200px-Alianzen_in_Europa_1914.svg.png\">"
+            ],
+            "guid": "ih914",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Zwischen wem</b> bestand der <b>Zweibund</b>?",
+                "Österreich-Ungarn und deutsches Reich<br><img src=\"300px-Dual_Alliance_in_1914.png\">"
+            ],
+            "guid": "Y<QY",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann wurde der Zweibund besiegelt?",
+                "7. Oktober 1879<br><img src=\"16618966397434041757195157661436.png\">"
+            ],
+            "guid": "N=%AT",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann wurde der Dreibund besiegelt?",
+                "20. Mai 1882<br><img src=\"1200px-Alianzen_in_Europa_1914.svg.png\">"
+            ],
+            "guid": "MYk^L",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was waren die Pariser Vorortverträge?",
+                "Die Verträge, die in Folge der Pariser Friedenskonferenz von den Siegermächten (Alliierte) einseitig aufgesetzt wurden"
+            ],
+            "guid": "S(v;S",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann war die Pariser Friedenskonferenz?",
+                "18. - 21. Januar 1919"
+            ],
+            "guid": "$IRA3",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war der Vertrag von Versailles?",
+                "Friedensvertrag mit dem deutschen Kaiserreich nach dem ersten Weltkrieg"
+            ],
+            "guid": "9Uo)",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war Teil der Pariser Vorortverträge?<br>{{c1::Vertrag von Versailles mit dem deutschen Reich}}<br>{{c2::Vertrag von Saint-Germain mit Deutschösterreich}}<br>{{c3::Vertrag von Neuilly-sur-Seine mit Bulgarien}}<br>{{c4::Vertrag von Trianon mit Ungarn}}<br>{{c5::Vertrag von Sèvres mit dem Osmanischen Reich}}",
+                ""
+            ],
+            "guid": "7%yU",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war der Vertrag von Saint-Germain?",
+                "Friedensvertrag mit Deutschösterreich (danach Republik Österreich)"
+            ],
+            "guid": "j8?>O",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann wurde der Vertrag von Saint-Germain unterzeichnet?",
+                "10. September 1919<br><img src=\"img1796033155502062198.jpg\">"
+            ],
+            "guid": "P<p}P",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann wurde der Vertrag von Versailles unterzeichnet?",
+                "28. Juni 1919"
+            ],
+            "guid": "Y*aGG",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann wurde der Völkerbund gegründet?",
+                "10. Januar 1920<br><img src=\"img7806298369351413596.png\">"
+            ],
+            "guid": "rtKIM",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann wurde der Völkerbund aufgelöst?",
+                "18. April 1946<br><img src=\"img7806298369351413596.png\">"
+            ],
+            "guid": "A.mfP",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer ist Teil der UNO?",
+                "Basically jedes Land (außer Vatikan und Palästina)<br><img src=\"paste-4470c66c26f2a5531b2b990571d218574f3424f0.png\">"
+            ],
+            "guid": "Nc4;4",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Für was steht NATO?",
+                "North Atlantic Treaty Organization<br><img src=\"img3778401681607115349.png\">"
+            ],
+            "guid": "n3%KC",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer waren die Besatzungsmächte?",
+                " Großbritannien, Frankreich, die USA und die Sowjetunion"
+            ],
+            "guid": "z0&27",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welcher Vertrag markiert das Ende der Nachkriegszeit?",
+                "Zwei plus vier Vertrag<br><img src=\"d-2plus4-vertrag.gif\">"
+            ],
+            "guid": "N`C~H",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zwei plus vier Vertrag wann?",
+                "12. September 1990 in Moskau<br><img src=\"d-2plus4-vertrag.gif\">"
+            ],
+            "guid": "Wa$-E",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deutsche Wiedervereinigung wann?",
+                "3. Oktober 1990<br><img src=\"Wiedervereinigung.PNG\">"
+            ],
+            "guid": "|=/@Q",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist in Deutschland am 3. Oktober?",
+                "Tag der Deutschen Einheit (Anschluss der DDR zur Bundesrepublik Deutschland)<br><img src=\"Wiedervereinigung.PNG\">"
+            ],
+            "guid": "r78vH",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann wurde die österreichische Neutralität besiegelt?",
+                "26. Oktober 1955<br><img src=\"img5758745326884307579.jpg\">"
+            ],
+            "guid": "[f8T9",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann erlangte Österreich nach dem zweiten Weltkrieg seine Souveränität wieder?",
+                "<b>Am 15. Mai 1955</b> war der Staatsvertrag unterzeichnet worden, der Österreichs staatliche Souveränität wiederherstellte"
+            ],
+            "guid": "40+9P",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wodurch erlangte Österreich nach dem zweiten Weltkrieg seine Souveränität wieder?",
+                "Am 15. Mai 1955 war <b>der Staatsvertrag</b> unterzeichnet worden, der Österreichs staatliche Souveränität wiederherstellte"
+            ],
+            "guid": "fH]p7",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sturm auf die Bastille wann?",
+                "14. Juli 1789<br><img src=\"Prise_de_la_Bastille_01.jpg\">"
+            ],
+            "guid": "r1A,R",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was markierte der Zweite Prager Fenstersturz?",
+                "Beginn des Dreißigjährigen Krieges"
+            ],
+            "guid": "LI2_G",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zweiter Prager Fenstersturz wann?",
+                "23. Mai 1618<br><img src=\"img6855586846358490728.jpeg\">"
+            ],
+            "guid": "+?%{U",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Attentat von Sarajevo wann?",
+                "28. Juni 1914"
+            ],
+            "guid": "Gn80U",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer wurde beim Attentat von Sarajevo am 28. Juni 1914 ermordet?",
+                "Erzherzog Franz Ferdinand und seine Gemahlin<br><br>(von Gavrilo Princip)"
+            ],
+            "guid": "9ixf2",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Doppelmonarchie Österreich-Ungarn wann?",
+                "15. März 1867"
+            ],
+            "guid": "7bpa1",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kaiser Franz Josef I. Krönung König von Österreich?",
+                "8. Juni 1867 in Budapest"
+            ],
+            "guid": "3?%LD",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Elisabeth Krönung Königin von Ungarn?",
+                "8. Juni 1867 in Budapest"
+            ],
+            "guid": "o,iC7",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet Apikal?",
+                "Apikal bedeutet \"die Spitze eines Organs betreffend\""
+            ],
+            "guid": "h~nlT",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo liegt die höchstgelegene Stadt der Welt?",
+                "In Peru → La Rinconada (5100m)<br><img src=\"paste-c97f413e264f0551be04b90e6fd0d69716c3be3c.jpg\">"
+            ],
+            "guid": "FNey,FKY*0",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2. Apokalyptischer Reiter",
+                "Krieg<br><img src=\"2017086_univ_cnt_4_md.jpg\">"
+            ],
+            "guid": "?<z+F",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "1. Apokalyptischer Reiter",
+                "Sieg<br><img src=\"2017086_univ_cnt_3_md.jpg\">"
+            ],
+            "guid": "]GPG3",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3. Apokalyptischer Reiter",
+                "Hunger<br><img src=\"2017086_univ_cnt_5_md.jpg\">"
+            ],
+            "guid": "]MlyP",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4. Apokalyptischer Reiter",
+                "Krankheit<br><img src=\"2017086_univ_cnt_6_md.jpg\">"
+            ],
+            "guid": "~4m.G",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Homo sacer?",
+                "Vogelfrei, aber auch heilig.<br>→ Dazu kam es durch Eidesbrüche"
+            ],
+            "guid": "^ekBC",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"img155330403253291975.JPG\">",
+                "Stock-im-Eisen"
+            ],
+            "guid": "[;oA5",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine <b>Anthologie</b>?",
+                "Eine Sammlung ausgewählter Werke zu einem Thema."
+            ],
+            "guid": "AFKd>#f<tz",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welcher britische Logiker war maßgeblich an der Entschlüsselung der Chiffriermaschine Enigma beteiligt?",
+                "Alan Turing<br><img src=\"465px-Alan_Turing_az_1930-as_években.jpg\">"
+            ],
+            "guid": "h,JiC",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Alan Turing starb {{c1::an Suizid::an was?}} nachdem er aufgrund {{c2::Homosexualität::was?}} zu {{c3::chemischer Kastration::was?}} verurteilt wurde.",
+                "<img src=\"img4001485294273851547.jpg\">"
+            ],
+            "guid": "v=mI8",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein \"nom de guerre\"?",
+                "Ein Künstlername"
+            ],
+            "guid": "/2yz8",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Rosenkohl?",
+                "Kohlsprossen<br><img src=\"img6355912910411929241.jpeg\">"
+            ],
+            "guid": "atszH",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Blumenkohl?",
+                "Karfiol<br><img src=\"img1158931296379607017.jpg\">"
+            ],
+            "guid": "9,#NT",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Spargelkohl?",
+                "Brokkoli<img src=\"img3303530995723891633.jpg\">"
+            ],
+            "guid": "P$tMB",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"img15535881604190444.jpg\">",
+                "Romanesco"
+            ],
+            "guid": "/8E<K",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zu welcher Art gehören fast alle Kohlarten? (außer Chinakohl)",
+                "Brassica oleracea"
+            ],
+            "guid": "iqamF",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die {{c1::Hugenotten::welche&nbsp;<span style=\"color: rgb(32, 33, 36);\">französischen Protestanten</span>?}} waren {{c2::Calvinisten::Glaube?}}",
+                "<img src=\"img3276669069309380217.png\">"
+            ],
+            "guid": "E7wMA",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Für was steht das T in T-Zelle?",
+                "Thymus"
+            ],
+            "guid": "XgJyR",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Für was steht das B in B-Zelle?",
+                "Von \"bursa fabricii\""
+            ],
+            "guid": "+?J?9",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Haben Menschen eine bursa fabricii?",
+                "Nein, die haben Vögel."
+            ],
+            "guid": "Ug:)I",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo produzieren Menschen B-Zellen?",
+                "Im Knochenmark"
+            ],
+            "guid": "I[%f4",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die älteste Hauptstadt der Welt?",
+                "Damaskus"
+            ],
+            "guid": "Q1m91w9}]Y",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die älteste Stadt der Welt?",
+                "Byblos (possibly)"
+            ],
+            "guid": "LM4n6yVRWH",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In welchem Land steht der Kilimanjaro?",
+                "Tanzania"
+            ],
+            "guid": "p]Bw:gdoLH",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist der größte Wasserfall der Welt (nicht Angel Falls)",
+                "Denmark Strait Cataract<br><img src=\"aO715GN_460s.jpg\">"
+            ],
+            "guid": "nvWBz2nt&p",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist der insgesamt größte Wasserfall der Welt (über Wasser)",
+                "Victoria Falls&nbsp;<br><img src=\"victoria-falls-width.jpg\">"
+            ],
+            "guid": "EwBbjbCkBN",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist der schnellstfließende Fluss der Welt?",
+                "Amazonas"
+            ],
+            "guid": "EX-A-Mo+&(",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo ist der Mount Everest?",
+                "Nepal und China<br><img src=\"300px-Nepal_rel_location_map.svg.png\">"
+            ],
+            "guid": "yV6**Z030;",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie viele Zeitzonen hat China?",
+                "1<br><img src=\"paste-772cf82432ba35d3ba7eb186a76a080a26177439.png\">"
+            ],
+            "guid": "d=3Mf/j5hh",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie viele Zeitzonen haben die USA?",
+                "6<br><img src=\"1200px-US-Timezones-post-2007.png\">"
+            ],
+            "guid": "m~(YDcrVed",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennt man die Halbinsel, auf der die Türkei liegt?",
+                "Anatolien (Kleinasien)<br><img src=\"paste-ec5aa8517e8ee8f061cce2d31dce4da58893d6c8.jpg\">"
+            ],
+            "guid": "Nz2TL#^Kij",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer war Mao's Frau?",
+                "Jiang Qing.<br><img src=\"16629025315568000084622965355645.jpg\">"
+            ],
+            "guid": "~b_j{E{s]",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet Akkretion?",
+                "In der&nbsp;Astronomie&nbsp;die Bezeichnung für einen Vorgang, bei dem ein&nbsp;kosmisches Objekt&nbsp;Materie&nbsp;aufgrund seiner&nbsp;Gravitation&nbsp;bzw. von&nbsp;Gezeitenkräften&nbsp;(siehe&nbsp;Roche-Grenze) aufsammelt.<br><img src=\"Akkretionsunifikation.jpg\">"
+            ],
+            "guid": "w{rfSkG+OQ",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Ablation?",
+                "The process by which the surface layers of an object are eroded.<br><img src=\"Accumulation_ablation_groundingline.png\">"
+            ],
+            "guid": "vM1BL0vW,R",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Advektion?",
+                "<div>Allgemein das Heranführen von Dingen und wird häufig synonym mit dem Begriff&nbsp;Strömungstransport&nbsp;(Konvektion) genutzt.</div><div><br>Im englischen Sprachraum wird die&nbsp;Konvektion&nbsp;unterteilt in die Advektion als&nbsp;gerichtetem Strömungstransport&nbsp;und die auf atomarer Ebene ungerichtet verlaufende&nbsp;Diffusion.</div>"
+            ],
+            "guid": "LD[wxYQo`(",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das für ein Diagramm?<br><img src=\"histogram-example-1.png\">",
+                "Histogramm."
+            ],
+            "guid": "NV&y;bW2B.",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Bathymetrie?",
+                "Vermessung der Tiefen von Gewässern<br><img src=\"370px-Mid-ocean_ridge_system.gif\">"
+            ],
+            "guid": "ns+)*tX!7m",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Allometrie?",
+                "Messen und Vergleichen von Beziehungen zwischen der&nbsp;Körpergröße&nbsp;und deren Verhältnis zu verschiedensten biologischen Größen.<br><img src=\"6+Allometriegesetz+der+terrestrischen+Wirbeltiere.jpg\">"
+            ],
+            "guid": "JNRykl8qSi",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Hypsometrie?",
+                "Die Messung von Erhebungen und Tiefen auf der Erdoberfläche im Vergleich zur Meereshöhe.<br><img src=\"Boiling_Point_Apparatus_or_Hypsometer.jpg\">"
+            ],
+            "guid": "m$&MBDKg`L",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Chiaroscuro?",
+                "The use of strong&nbsp;contrasts&nbsp;between light and dark, usually bold contrasts affecting a whole composition.<br><img src=\"220px-Baglione.jpg\">"
+            ],
+            "guid": "IV5eHE!Ovm",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Chaudfroids?",
+                "Vorspeisen, die warm zubereitet, aber kalt serviert werden."
+            ],
+            "guid": "f#bKh/Y-^{",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo ist das Rembrandt-Haus?",
+                "Amsterdam<br><a href=\"https://www.google.com/imgres?imgurl=http://t3.gstatic.com/licensed-image?q%3Dtbn:ANd9GcTKzxxAnSAY9lOfStbP5igst1KqZ-AETEMFrqZLaldRfwSIigJuXt5-BepIC4rPiXhm&amp;imgrefurl=http://t3.gstatic.com/licensed-image?q%3Dtbn:ANd9GcTKzxxAnSAY9lOfStbP5igst1KqZ-AETEMFrqZLaldRfwSIigJuXt5-BepIC4rPiXhm&amp;h=1365&amp;w=2048&amp;tbnid=23G4lRANN09FpM&amp;q=rembrandt+haus&amp;tbnh=1365&amp;tbnw=2048&amp;vet=1&amp;docid=Yh7RJIeRmqivAM&amp;itg=1&amp;usg=K_5JwRs20WP72PgiBs3M4ruprGvgM%3D&amp;sa=X&amp;ved=2ahUKEwj8oeuC9_r3AhUN_6QKHRUQAMYQuqIBegUIzAEQAw\"><img src=\"paste-41ffbb44d7966c70c73c6ddb5b4d3954728ed8ed.jpg\"></a>"
+            ],
+            "guid": "wf`$FdZO;w",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie heißt diese Gebirgskette?<br><img src=\"1024px-Pyrenees_0.43034E_42.71227N.jpg\">",
+                "Pyrenäen"
+            ],
+            "guid": "fY[B]gW^iu",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Woher kommt das Wort Planet?",
+                "Aus dem Griechischen \"planētēs\" = \"Wanderer\""
+            ],
+            "guid": "j6w;CWQ(.(",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Von wem stammt \"cogito, ergo sum\"?",
+                "Rene Descartes<br><img src=\"Frans_Hals_-_Portret_van_René_Descartes.jpg\">"
+            ],
+            "guid": "hLy.4",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Von wem stammt \"ich weiß dass ich nichts weiß\"?",
+                "Sokrates<br><img src=\"1200px-Socrates_Louvre.jpg\">"
+            ],
+            "guid": ".k3`R",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennt man den Berg Lugauer noch?",
+                "Steirisches Matterhorn<br><img src=\"img6914794287103474153.jpg\">"
+            ],
+            "guid": "*5,XS",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"Wichtiger\" Amerikanischer Silberschmied und Patriot",
+                "Paul Revere<br><img src=\"1200px-J_S_Copley_-_Paul_Revere_(cropped).jpg\">"
+            ],
+            "guid": "^7ShB",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Römisches</b> Gegenstück zu Dionysus?",
+                "Liber - Bacchus wurde auch von den Griechen verwendet.<br><img src=\"paste-86fcda73c67bc8453fd24ce09cada39efa803665.jpg\">"
+            ],
+            "guid": "wwP8E",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stalagtit + Stalagmit",
+                "Stalagnat<br><img src=\"1661876572937220764469081636969.jpg\">"
+            ],
+            "guid": "AaT[L",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hellstes Objekt am Himmel (nach Sonne und Mond)?",
+                "Venus"
+            ],
+            "guid": "1Ml17",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cy Twombly war ein {{c1::amerkcanischer::Land?}} Maler.",
+                "<img src=\"16618949991499216345022340008605.jpg\">"
+            ],
+            "guid": "Fp$jR",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer ist das?<br><img src=\"16618949991499216345022340008605.jpg\">",
+                "Cy Twombly"
+            ],
+            "guid": "M:s|G",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gewinner der ersten Fußball-Weltmeisterschaft?",
+                "Uruguay"
+            ],
+            "guid": "0>d}4",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Erster europäischer Gewinner einer Fußball-Weltmeisterschaft?",
+                "Italien (2. Fifa World Cup)"
+            ],
+            "guid": ";GXc7",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann war die erste Fußball-Weltmeisterschaft?",
+                "1930"
+            ],
+            "guid": "1Huo3",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie oft wurde die Fußball-Weltmeisterschaft bisher nicht abgehalten?",
+                "Zweimal (1942 & 1946 - 2.WK)"
+            ],
+            "guid": "t{Bf2",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sieht man hier?<br><img src=\"16618975248183472900560326106296.jpg\">",
+                "Sinterbecken"
+            ],
+            "guid": "P4-sI",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Sinter?",
+                "Eine Substanz, die durch allmähliche mineralische Ablagerung entsteht."
+            ],
+            "guid": "LNHcO",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"16618979636113228672304973611600.jpg\">",
+                "Sinterröhrchen"
+            ],
+            "guid": "qK?ZC",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Sinterröhrchen?",
+                "Eine Sinterablagerung, bei welcher der Tropfen immer an exakt derselben Stelle austritt.<br><img src=\"16618979636113228672304973611600.jpg\">"
+            ],
+            "guid": "]}H>E",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie entsteht ein Stalagtit?",
+                "Aus einem Sinterröhrchen, bei welchem die Tropfen auf der Außenseite ablaufen - Dickenwachstum setzt ein<br><img src=\"16618981012956401077254466731049.jpg\"><br>(Meist durch Verstopfung des Kalkführenden Kanals)"
+            ],
+            "guid": "{wFRN",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennt man Sinterröhrchen noch?",
+                "Makkaroni<br><img src=\"16618979636113228672304973611600.jpg\">"
+            ],
+            "guid": "KNjA",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie entsteht ein Stalagmit?",
+                "Durch auftropfendes kohlensäurehaltiges Wasser, welches Calcit ablagert<br><img src=\"16618983517685655940891668355366.jpg\">"
+            ],
+            "guid": "F=L<S",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Formen unterscheidet man beim Stalagmiten?",
+                "Kerzen- und Kegelförmig"
+            ],
+            "guid": "MvXU6",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie entstehen kegelförmige Stalagmiten?",
+                "Durch starke Sickerwasserzufuhr"
+            ],
+            "guid": "Bv/Y",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie entstehen kerzenförmige Stalagmiten?",
+                "Durch gleichmäßige Lösungszufuhr"
+            ],
+            "guid": "e/A.A",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sieht man hier?<br><img src=\"16618987037906428354858218460167.jpg\">",
+                "Excentriques"
+            ],
+            "guid": "b(ym2",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie entstehen Excentriques?",
+                "Durch die Kapillarkraft<br><img src=\"16618987037906428354858218460167.jpg\">"
+            ],
+            "guid": "gJ!=7",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was versteht man unter Karst?",
+                "Geländeformen von Gesteinen die vorwiegend durch Verwitterung sowie Ausfällung von Kalksteinen und Sedimenten entstanden sind<br><img src=\"1661898944478571877237307840838.jpg\"><br><img src=\"16618989751361756837533180344378.jpg\">"
+            ],
+            "guid": "cPL,O",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die großen Antillen?",
+                "Kuba, Jamaika, Hispaniola und Puerto Rico<br><img src=\"16618990010844656039409700937538.png\">"
+            ],
+            "guid": "r3GkQ",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sieht man hier?<br><img src=\"16618996197511528043982456357929.png\">",
+                "Die kleinen Antillen "
+            ],
+            "guid": "0e9DF",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sieht man hier?<br><img src=\"16618996618076194130922298925776.png\">",
+                "Die großen Antillen"
+            ],
+            "guid": "1]}GO",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aus was bestehen die Westindischen Inseln?",
+                "Große Antillen<br>Kleine Antillen<br>Bahamas<br>Turks- und Caicosinseln<br><img src=\"westindien.gif\">"
+            ],
+            "guid": ":U[bG",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die Lucayen?",
+                "Bahamas und Turks- und Caicosinseln<br><br><img src=\"16618998658245292250127636272239.png\">",
+                ""
+            ],
+            "guid": "*O61I",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was unterscheidet die Antillen von den Lucayen? (geologisch)",
+                "Die Antillen sind vulkanischen Ursprungs",
+                ""
+            ],
+            "guid": "jAIXL",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sieht man hier?<br><img src=\"16618999659554485535426946029486.jpg\">",
+                "Die Insel Hispaniola",
+                ""
+            ],
+            "guid": "L`siL",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Auf welcher Insel liegen die Staaten Haiti und Dominikanische Republik?",
+                "Hispaniola<br><img src=\"16618999659554485535426946029486.jpg\">",
+                ""
+            ],
+            "guid": "5ahd1",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Speläotheme?",
+                "Sekundäre Mineralablagerungen in Höhlen<br><img src=\"16619004521647338847362518407361.jpg\">",
+                ""
+            ],
+            "guid": "lqUFK",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die häufigsten Speläotheme?",
+                "Sinter",
+                ""
+            ],
+            "guid": "HzEuO",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sieht man hier?<br><img src=\"16619005401869177096755974609260.jpg\">",
+                "Mondmilch",
+                ""
+            ],
+            "guid": "hN>%O",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist coll'arco?",
+                "Eine Spieltechnik der Geige, bei der die Saiten mit den Haaren des Bogens gestrichen werden",
+                ""
+            ],
+            "guid": "_u(C4",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist collegno?",
+                "Eine Spieltechnik der Geige, bei der die Saiten mit der Stange des Bogens gestrichen werden",
+                ""
+            ],
+            "guid": "dM<c2",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist battuto?",
+                "Eine Spieltechnik der Geige, bei der die Saiten mit den Haaren des Bogens geschlagen werden",
+                ""
+            ],
+            "guid": ">geK9",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist pizzicato?",
+                "Eine Spieltechnik der Geige, bei der die Saiten mit den Fingern gezupft werden",
+                ""
+            ],
+            "guid": "fiTe1",
+            "note_model_uuid": "a0d3e1c3-55e0-11ed-96a0-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine {{c1::Violine}} nennt man auch {{c2::Geige}}.",
+                "<img src=\"16619010074541313724192705300842.jpg\">"
+            ],
+            "guid": "6_reA",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eine {{c1::Viola}} nennt man auch {{c2::Bratsche}}.",
+                "<img src=\"16619010267304966462618213425262.jpg\">"
+            ],
+            "guid": "#ZB02",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ein {{c1::Violoncello}} nennt man auch {{c2::Cello}}.",
+                "<img src=\"16619011126528271727620273247575.png\">"
+            ],
+            "guid": "|LoKR",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Einen {{c1::Kontrabass}} nennt man auch {{c2::Bass}}.",
+                "<img src=\"16619011435521824675598940025099.jpg\">"
+            ],
+            "guid": "n_{PK",
+            "note_model_uuid": "a0d1beea-55e0-11ed-9e21-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie viele Saiten hat ein Kontrabass?",
+                "4, selten 5 (Im Sinfonieorchester)<br><img src=\"16619012378117756897461815336945.jpg\">"
+            ],
+            "guid": "Zjn@B",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie viele Saiten hat ein Violonchello?",
+                "4  (\"ach du Großes Chello\")<br><img src=\"16619012710938854656834891261184.png\">"
+            ],
+            "guid": "z+qrF",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie viele Saiten hat eine Viola?",
+                "4<br><img src=\"1661901370437377893003176344839.jpg\">"
+            ],
+            "guid": "ffSv6",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie viele Saiten hat eine Violine?",
+                "4 (\"Geh du alter Esel\")<br><img src=\"16619014427194360100912336276215.jpg\">"
+            ],
+            "guid": "/>tWU",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie viele Saiten hat eine Gitarre?",
+                "6 (\"eine alte Dame geht heute einkaufen\")<br><img src=\"16619014983403172642559589708510.jpg\">"
+            ],
+            "guid": "GrA=G",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Skordatur?",
+                "Eine von der Norm abweichende Stimmung eines Saiteninstruments"
+            ],
+            "guid": "c]]u8",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Akkordatur?",
+                "Eine der Norm entsprechende Stimmung eines Saiteninstruments."
+            ],
+            "guid": "@0HlA",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche sind die größten Galaxien der lokalen Gruppe?",
+                "Milchstraße und Andromedagalaxie<br><img src=\"1661902942777283703682190062405.png\">"
+            ],
+            "guid": ":g;d4",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Parsec?",
+                "Ein astronomisches Längenmaß (ca 3,26ly)"
+            ],
+            "guid": "rFh!G",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche ist die hellste Galaxie am Nachthimmel?",
+                "Große Magellansche Wolke<br><img src=\"16619032071757310075697256338113.jpg\">"
+            ],
+            "guid": "_nl3B",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sieht man hier?<br><img src=\"16619033409561311363383495620992.jpg\">",
+                "Das erste Foto der Welt"
+            ],
+            "guid": "3UuT5",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo wurde das erste Foto der Welt geschossen?",
+                "In Frankreich<br><img src=\"16619033409561311363383495620992.jpg\">"
+            ],
+            "guid": "[yGfJ",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sieht man hier?<br><img src=\"16619034879406618925916678355323.jpg\">",
+                "Eine Camera obscura"
+            ],
+            "guid": "O[.QO",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war der Inhalt der ersten SMS der Welt?",
+                "\"Merry Christmas\""
+            ],
+            "guid": "G//^S",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war der Inhalt des ersten Telefonats der Welt?",
+                "\"Watson, come here. I need you.\""
+            ],
+            "guid": "Vz;A9",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer war der Erfinder des Telefons?",
+                "Alexander Graham Bell<br><img src=\"16619038269516943920713521989664.jpg\">"
+            ],
+            "guid": "G~Lr9",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war die erste E-Mail-Adresse der Welt?",
+                "tomlinson@bbntenexa"
+            ],
+            "guid": "lZ3dO",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war die erste Website der Welt?",
+                "http://info.cern.ch/hypertext/WWW/TheProject.html"
+            ],
+            "guid": "*ShcN",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war der Inhalt des ersten Telegramms der Welt?",
+                "\"What hath God wrought\""
+            ],
+            "guid": "Zz!ZI",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welches Sprache benutzt diese Buchstaben? <br>Æ, Ø",
+                "Norwegisch"
+            ],
+            "guid": "Gz]pVEjRJZ",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennt man die Rahmenform bei Damenfahrrädern?",
+                "Schwanenhals<br><img src=\"side_001_bike-detail-1x.png\">"
+            ],
+            "guid": "dGrXK",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aus welchem Land kommt das Hochzeitsfeuer \"Saat Fere\"?",
+                "Indien<br><img src=\"16624810351534843683825925355429.jpg\">"
+            ],
+            "guid": "qu4WT",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo wurde Julius Caesar genau ermordet?",
+                "Pompeiustheater<br><img src=\"Exteriortheatreofpompey.jpg\">"
+            ],
+            "guid": "ZgWc3",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welches Wasser kann Platin auflösen?",
+                "Königswasser"
+            ],
+            "guid": "v!iuF",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennt man Mandarinen ohne Kerne?",
+                "Clementinen"
+            ],
+            "guid": "I$j7G",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bei welchem Handel passiert das Roll-on-roll-off-Verfahren?",
+                "Im Seehandel"
+            ],
+            "guid": "Cag@K",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie heißt die zweite Station in einem Klärwerk, die das Abwasser durchläuft?",
+                "Rechenanlage."
+            ],
+            "guid": "<$z-F",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Claqueur?",
+                "Jemand der im Theater fürs Klatschen bezahlt wird."
+            ],
+            "guid": "4*Xz5",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann weht die Flagge der UK über dem Buckingham Palace?",
+                "Wenn die Queen nicht zuhause ist."
+            ],
+            "guid": "kfZ/G",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Buhurt bei Ritterturnieren?",
+                "Scheinkampf"
+            ],
+            "guid": "L/hjA",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das?<br><img src=\"16624821966199135761697957480274.jpg\">",
+                "Eine Prinz-Heinrichs-Mütze"
+            ],
+            "guid": "sdJxN",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo verwendet man Fantaschalen?",
+                "In Apotheken<br><img src=\"1662482298439817536523629498344.jpg\">"
+            ],
+            "guid": "{,^6I",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welches Spiel?<br><img src=\"1200px-Nine_Men's_Morris_board.svg.png\">",
+                "Mühle"
+            ],
+            "guid": "h6=s(jQI/?",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welches Spiel?<br><img src=\"fuchsundhenne.jpg\">",
+                "Fuchs und Henne"
+            ],
+            "guid": "e:rhv*;EQg",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Weinbeißer?",
+                "Lebkuchen<br><img src=\"16630836566663941431353759086644.jpg\">"
+            ],
+            "guid": ";*VxL",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mikroartist Name?",
+                "Mikola Szjadrisztij<br><img src=\"126774_allo_mikorcsodak_mikola.jpg\">"
+            ],
+            "guid": "SKhC8",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist der Van-der-Waals Radius?",
+                "Der Radius des Atoms"
+            ],
+            "guid": ".Ew~S",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer gründete das Theater an der Wien?",
+                "Emmanuel Schikaneder<br><img src=\"Schikaneder,_Emanuel_eigentlich_Johann_Joseph_Schickeneder1.jpg\">"
+            ],
+            "guid": "B4a3C",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zu welchem Anlass malte Picasso \"Guernica\"?",
+                "Spanischer Bürgerkrieg<br><img src=\"Picasso_Guernica-3-1040x467-1-1024x460.jpg\">"
+            ],
+            "guid": "bcHDWRIGCs",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In welcher Anzahl konnte man Globen bis 1820 erwerben",
+                "Nur zu zweit - Normaler und Sterneglobus<br><img src=\"paste-9b8828440573d49e9b7e4eb0f1ed6d03060fa338.jpg\">"
+            ],
+            "guid": "ZU/[K",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Armillarsphäre",
+                "Astronomisches Instrument zur Bestimmung von Positionen von Himmelskörpern<br><img src=\"grafik-armillarsphäre2.jpg\">"
+            ],
+            "guid": "J1`*6",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Jovilabium",
+                "Ein Orarry wo die Planeten um den Jupiter kreisen<br><img src=\"10168185_1_x.jpg\">"
+            ],
+            "guid": "CND64",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Tellurium?",
+                "Ein Orerry für Mondphasen<br><img src=\"079b67c8756b5b02eb681594aa40114c.jpg\">"
+            ],
+            "guid": "3xq<1",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was markiert der Nullmeridian",
+                "Den Beginn der Zählung der Längenkreise<br><img src=\"126-laengengrade.png\">"
+            ],
+            "guid": "x?>EF",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Induktionsglobus?",
+                "Quasi ein Prüfungsglobus in Schulen<br><img src=\"gl_143.jpg\">"
+            ],
+            "guid": "aydqS",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer war der bedeutendste Globenhersteller?",
+                "Vincenzo Coronelli<br><img src=\"cat-66-1.jpg\">"
+            ],
+            "guid": "C>XUU",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Erzählung vom Turmbau zu Babel?",
+                "Die Menschen arbeiteten zu gut zusammen und wollten einen Turn bis zu Gott bauen. Als Strafe gab er ihnen verschiedene Sprachen<br><img src=\"640px-Kunsthistorisches_Museum_Wien_Pieter_Bruegel_d.Ä._der_Turmbau_zu_Babel.jpg\">"
+            ],
+            "guid": "-C2*Q",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wer erfand Esperanto?",
+                "Ludwik Lejzer Zamenhof (\"Dr. Esperanto\")<br><img src=\"1200px-1908-kl-t-zamenhof.jpg\">"
+            ],
+            "guid": "pP@`N",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war der Name des schwersten mobilen Geschützes, welches jemals im Einsatz war?",
+                "Der schwere Gustav<br><img src=\"659d07ef143e2c4f64da15d0b1bd635b.jpg\">"
+            ],
+            "guid": "#4iA5",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wofür ist ist Ts'ai Lun (Cai Lun) bekannt?",
+                "<img src=\"paste-849c4bc825c2c8d1cedef076e9dd7dd779b674bd.jpg\">Papierherstellung <br>"
+            ],
+            "guid": "t!`N8",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Hadern?",
+                "Stoffreste<br><img src=\"220px-De_Schoolmeester_scheurbank_met_sorteerkist.jpg\">"
+            ],
+            "guid": "q9fuG",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war das Orakel des Astrampsychos?",
+                "D29"
+            ],
+            "guid": "(2.z8",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was war das Dreikinderrecht?",
+                "Im alten Rom die Aufhebung der Vormundschaft für jede Frau mit mindestens drei Kindern"
+            ],
+            "guid": ";;Z:F",
+            "note_model_uuid": "a0d12299-55e0-11ed-b756-00acb1c8acfb",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
